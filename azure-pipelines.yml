@@ -4,7 +4,7 @@ trigger:
 pool:
   name: 'MyAgentPool'
   demands:
-  - npm
+  - np
   
 variables:
   buildConfiguration: 'Release'
